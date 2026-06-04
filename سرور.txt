@@ -1,15 +1,23 @@
-vless://5c875449-ae7d-46f8-b919-5a29f271dfce@44.242.50.106:36895?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4&sid=5a585c3e894bf074&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=%2Ftsghdws#💛سحر دخترِ نازَم ❀
 
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@188.114.97.6:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#💛سحر دخترِ نازَم ❀
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.1.164:80?encryption=none&security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal#💛سحر دخترِ نازَم ❀
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.27.13.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=newfn.stardevs.top&fp=chrome&pbk=dZr14WsJ6yNqfoalMrTWBsOU74mckVoQO84Ty68TtW4&sid=b03a4d1767157467&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
-
-trojan://s.wRSE4ANZp4%3D4h.%3DB_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?encryption=none&security=reality&sni=yastatic.net&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
 
 vless://5c875449-ae7d-46f8-b919-5a29f271dfce@44.242.50.106:36895?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=firefox&pbk=SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4&sid=5a585c3e894bf074&spx=%2F&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+
+trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+
+trojan://avA%3DNpxA2_yNqY11PT%3DOrbCXh8C4LdYUeS@38.54.63.105:443?security=tls&sni=www.cdn-setting.click&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+
+trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&fp=chrome&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&sid=88ce6b586fcaf681&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
