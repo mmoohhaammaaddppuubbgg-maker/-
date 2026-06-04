@@ -2,7 +2,7 @@ vless://5c875449-ae7d-46f8-b919-5a29f271dfce@44.242.50.106:36895?encryption=none
 
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
 
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم ❀
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#💛سحر دخترِ نازَم
 
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=octopusss4.com&path=%2Ftsghdws#💛سحر دخترِ نازَم ❀
 
